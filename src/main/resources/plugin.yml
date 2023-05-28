@@ -1,0 +1,6 @@
+name: AntiVillagerBreed
+version: '${project.version}'
+main: net.daechler.antivillagerbreed.AntiVillagerBreed
+api-version: 1.19
+authors: [Daechler]
+description: Prevent the villagers from breeding.
